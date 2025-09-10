@@ -1,6 +1,6 @@
 ## 大家好！👋
 
-我是Suzukif，一位喜欢折腾的人
+我是Suzukif
 
 ## 关于
 想看到关于我更多的事，请前往[Blog](https://blog.suzukif.xyz)查看吧!
